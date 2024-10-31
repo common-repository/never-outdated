@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-never-outdated-1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-09 16:32+0100\n"
+"PO-Revision-Date: 2012-08-09 16:37+0100\n"
+"Last-Translator: Tesial <renaud.laloux@testial.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: BELGIUM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\development\\workspace-pdt\\cms-checker3\\plugin\\src\n"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:121
+msgid "Settings"
+msgstr "Configuration"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:130
+msgid "WP Never Outdated Options"
+msgstr "WP Never Outdated Options"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:131
+msgid "WP Never Outdated "
+msgstr "WP Never Outdated"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:141
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:164
+msgid "General settings"
+msgstr "Configuration générales"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:146
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:165
+msgid "Secure Key"
+msgstr "Cléf privée"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:166
+msgid "The key may only contains caracter a-z, A-Z or numeric"
+msgstr "La clef privée ne peut contenir que des caractères a-z, A-Z ou numériques"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:193
+msgid "Key obtained while registering on CMS Never Outdated"
+msgstr "Clef obtenue lors de l'enregistrement gratuit sur <a href=\"http://www.neveroutdated.com\">Never Outdated</a>"
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:216
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous ne disposez pas des autorisations suffisantes pour accéder à cette page."
+
+#: C:\development\workspace-pdt\cms-checker3\plugin\src/wp-version-notifier.php:224
+msgid "Never Outdated"
+msgstr "Never Outdated"
+
+#~ msgid "WP Version Notifier "
+#~ msgstr "WP Version Notifier "
+
+#~ msgid "Version Notifier"
+#~ msgstr "Version Notifier"
+
+#~ msgid ""
+#~ "Secure Key should contain the key you receive when registering your "
+#~ "website."
+#~ msgstr ""
+#~ "Secure Key should contain the key you receive when registering your "
+#~ "website."
+
+#~ msgid "General Settings"
+#~ msgstr "General Settings"
